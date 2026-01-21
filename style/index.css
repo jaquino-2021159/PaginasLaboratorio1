@@ -252,3 +252,23 @@ p {
         padding: 100px 30px 30px;
     }
 }
+
+.seccion-final {
+    background: #fff;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    padding: 40px 50px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.seccion-final p {
+    color: #6e6e73;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+}
+
+.seccion-final p strong {
+    color: #1d1d1f;
+    font-weight: 600;
+}
